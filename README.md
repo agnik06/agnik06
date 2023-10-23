@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There+👋+!!;My+name+is+Agnik+Banerjee;Welcome+to+my+Git;Sphinx+of+black+quartz%2C+judge+my+vow)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+There+👋+!!;My+name+is+Agnik+Banerjee;Welcome+to+my+Git)](https://git.io/typing-svg)
 
 <!--
 **agnik06/agnik06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
